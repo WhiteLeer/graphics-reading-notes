@@ -4,7 +4,7 @@
 
 ## 目录
 
-- `RTR4/RTR4读书笔记.md`
+- `RTR4/`（按章节拆分的 Obsidian 笔记）
 - `PBRT4/PBRT4读书笔记.md`
 - `GPU-Gems-Vol1/GPU Gems 1读书笔记.md`
 - `GPU-Gems-Vol2/GPU Gems 2读书笔记.md`
